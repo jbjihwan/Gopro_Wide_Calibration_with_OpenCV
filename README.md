@@ -6,7 +6,7 @@ A tool to calibrate a GoPro8 SuperWideView video and correct distortion of the v
 
 |--------|-----------|
 
-| ![Origin](./1_origin.png)| ![Rectified](./76_correction.png) | 
+|<img src="./space_bar.png" width="250"/>|<img src="./space_bar.png" width="250"/>| 
 
 ## 📅 Project Overview
 This tool was created as part of a project to perform camera calibration and lens distortion correction based on a chessboard video input.
